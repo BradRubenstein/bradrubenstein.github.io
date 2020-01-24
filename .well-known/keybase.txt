@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/bradrubenstein
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.bradrubenstein.com
+  * I am bradrubenstein (https://keybase.io/bradrubenstein) on keybase.
+  * I have a public key with fingerprint 322A B221 5A4B 60B1 8E9D  C2BD B93C 2298 C880 2736
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "322ab2215a4b60b18e9dc2bdb93c2298c8802736",
+            "host": "keybase.io",
+            "key_id": "B93C2298C8802736",
+            "uid": "f1de778d3a7ae81fb06537e410d42000",
+            "username": "bradrubenstein"
+        },
+        "merkle_root": {
+            "ctime": 1416171793,
+            "hash": "98ababa51d0490cc7d07de1d025ef7bbba058f952f6213c8f0338c7ea1515a7f98e8538e8e789703f1ac479e534c87cac54f1f24fceac5f2d4e6db39ad2e2ab9",
+            "seqno": 96006
+        },
+        "service": {
+            "hostname": "www.bradrubenstein.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1416171936,
+    "expire_in": 157680000,
+    "prev": "42dc7071a5fac9d56ddcdf51c6786e213347efd8e11c74147d9d0839e9163e56",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFVkwtM1VYcxq8MJ6CEMR9Ttxno4hO46/u0aDbgcgHZRCTgVDKvbc8pt+PSXtte
+Lg6NVxMQYQEymQKLAZTNLGaGBUMYRjZlmwtOTcyURTIf+IINXELUmAlzLWFxtklz
+Tvv9v/P/fee0PvolR9SMAwWBo0Pjq7JnnB8RHflKbGs5JmpwB5Zcjkk+BammPVKF
+EoQlY8VohygYyKlocaoGkfMjI25ak4iVIt1QNNVS4U7gJLFdibbcLpYVtQjpfl2x
+vTCKJAWRJAlGoEUWFwkO8VAiRSjylESSPCdxHE4CirUsvZphvrAqNuXpUaD1No2n
+XLbe9VwfmPogExABwEFKAALiCFnEWYYCiCZwSJM4jttCA+nTSKIuQD0gItUwkaLa
+XZcgvdiHPLqmTaFLpmILCZpgCUAAnrL6EgyvVcpzgmjdDAFxmsclCUAcQGTNSAbJ
+QBRFAWc4mWdImSUJSuJknKI4CSCBYCx6IPMc4hjKeiDA8QCnZEKQaMAjhqIlDkiC
+xNAyIZO0LCFrLJOQRiwUKV6AJLIy5C0QA21XNSyZZ3Gc3WVP9VJFQnbbdnbTiMFg
+0PkiplPSSqxqv66ZmqT5LI3XNP3Jp218c4d/qgiJnmk7j6io0NrD/28yYSlfTIan
+2EQMlfkVHXkUW8EAlrPixu11UKllSZNQAjggBEYWJB4yLIQSlBlCYgHHIisiigZI
+hhwiCAnQBA0gD3GO4hFPsBRi2Oe8hGVqCkWWp6EUqYIZ0BG2a3/YznDHjCiHPDPM
+PsaeeSGHdTkdKxTDCCA9SfbrKapmCqYFYDg1P1L9RX6nrMim16vpBioRVKeKTNpN
+0ZyLZzI43MWSLprn0t0Uw1h8DAOYVMpNZpBkKp3qiIp85b9/Z/SzmH/eaYsIXF50
+F+vJ3tNX0zhy6+HZjsGOkO96WvNEF5Z0u2tf5oVIUy5ZcTVxvv983sOusoCr4VD7
+uiva8auDQtU+qdCNiTfbFo+19Fyo3btp6+WvubZrL8f2r8mdNZx7Sa1YPzciGs86
+3zIG4+6vvtPsq8l6/OroifSyllAj8EmfbshJqy0/0ru4I21ZZZ/uvpMxFDb4yfuZ
+OfHnEn5clRJc262fcSVF1/7WP3r8ybWBnvf6sPb02JiJZKa7uPRc43eBjLtNs0e2
+1Hc9e3vP6juNx5RNMaVZXOFP16p/gKOX1869Edi8IPdI7IfjxV0Li67PXvTWbuVM
+bdSB0vutHpDdHxYxdO/gGFv4e3L4jfGHISNN2JxacKiiIi/p14RvFv0cXh9vbP22
+mT2RtPzSnDXrCtZtXFBWWF09+becr28xgktOorZjy177883xBRdnCZXzUhu3lN2b
+eXv+LzH358jVGnhaP5GOBb5s+PyLJU8G/bBlWzHMe+TNPBKs2/txeljP5uNfsdEd
+oZW9E1U3G4Y6uyN7cw6varr4wbsbLoQlnip4MHDYSxx0YMM1R/t8jxdmvF4Q567y
+Vg9PLl3zxl9Lt7XlL66su/pH524YmtOUknB646lHsLPoe7drbt7KBiaeq4wsd65/
++mD52cTQJL3/ysztKyNOytF15W0D7a0g51mSP3grL3MyvnFn/r8=
+=cs+R
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bradrubenstein
+
+==================================================================
